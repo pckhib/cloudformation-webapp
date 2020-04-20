@@ -2,6 +2,8 @@
 
 ## Deploy a high-availability web app using CloudFormation
 
+![Image](Lucidchart-AWS.jpeg)
+
 ### Create infrastructure
 
 - Create network infrastructure
